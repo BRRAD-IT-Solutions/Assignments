@@ -5,7 +5,7 @@ This repository serves as a tracking and managing assignments within the company
 
 ## Prerequisites
 
-- Basic knowledge of GitHub. Please refer to [How to use GitHub.pdf](./How_to_use_GitHub.pdf) for instructions.
+- Basic knowledge of GitHub. Please refer to How to use GitHub.pdf for instructions in the Code section.
 
 ## Workflow
 
