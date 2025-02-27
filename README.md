@@ -40,3 +40,7 @@ This repository serves as a tracking and managing assignments within the company
 ## Communication
 
 For any questions or discussions, use the issue comments or team communication channels.
+
+## Members:
+1. **Randall Tan** - _Full Stack Developer / Software Engineer_ - [Github](https://github.com/randallegend)
+2. **Ramzel Tan** - _Full Stack Developer / Software Engineer_ - [Github](https://github.com/ramzell)
