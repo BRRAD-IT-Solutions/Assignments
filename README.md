@@ -45,3 +45,4 @@ For any questions or discussions, use the issue comments or team communication c
 1. **Randall Tan** - _Full Stack Developer / Software Engineer_ - [Github](https://github.com/randallegend)
 2. **Ramzel Tan** - _Full Stack Developer / Software Engineer_ - [Github](https://github.com/ramzell)
 3. **Angelo Jesse De Guzman** -  _Jr. Full Stack Developer / Software Engineer_ - [Github](https://github.com/AngelGo-Jesse)
+4. **Jan brendell Amandy** - _Software Architect / Software Engineer_ - [Github](https://github.com/brendevs) 
