@@ -1,0 +1,6 @@
+[submodule "AngelGo/Layoutassignmanet-1"]
+	path = AngelGo/Layoutassignmanet-1
+	url = https://github.com/AngelGo-Jesse/Layoutassignmanet-1.git
+[submodule "brendevs/1st-assignment"]
+	path = brendevs/1st-assignment
+	url = https://github.com/brendevs/1st-assignment.git
