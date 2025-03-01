@@ -4,3 +4,6 @@
 [submodule "brendevs/1st-assignment"]
 	path = brendevs/1st-assignment
 	url = https://github.com/brendevs/1st-assignment.git
+[submodule "brendevs/Responsive-css"]
+	path = brendevs/Responsive-css
+	url = https://github.com/brendevs/Responsive-css.git
