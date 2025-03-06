@@ -7,3 +7,6 @@
 [submodule "brendevs/Responsive-css"]
 	path = brendevs/Responsive-css
 	url = https://github.com/brendevs/Responsive-css.git
+[submodule "AngelGo/Responsive-Layout"]
+	path = AngelGo/Responsive-Layout
+	url = https://github.com/AngelGo-Jesse/Responsive-Layout.git
