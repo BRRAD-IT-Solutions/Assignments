@@ -10,3 +10,6 @@
 [submodule "AngelGo/Responsive-Layout"]
 	path = AngelGo/Responsive-Layout
 	url = https://github.com/AngelGo-Jesse/Responsive-Layout.git
+[submodule "brendevs/Table-Layout-and-Design"]
+	path = brendevs/Table-Layout-and-Design
+	url = https://github.com/brendevs/Table-Layout-and-Design.git
