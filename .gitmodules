@@ -13,3 +13,6 @@
 [submodule "brendevs/Table-Layout-and-Design"]
 	path = brendevs/Table-Layout-and-Design
 	url = https://github.com/brendevs/Table-Layout-and-Design.git
+[submodule "AngelGo/Table-Layout-and-Design"]
+	path = AngelGo/Table-Layout-and-Design
+	url = https://github.com/AngelGo-Jesse/Table-Layout-and-Design.git
