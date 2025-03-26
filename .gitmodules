@@ -19,3 +19,6 @@
 [submodule "AngelGo/iframe"]
 	path = AngelGo/iframe
 	url = https://github.com/AngelGo-Jesse/iframe.git
+[submodule "brendevs/Iframe"]
+	path = brendevs/Iframe
+	url = https://github.com/brendevs/Iframe.git
