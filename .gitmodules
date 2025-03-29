@@ -22,3 +22,6 @@
 [submodule "brendevs/Iframe"]
 	path = brendevs/Iframe
 	url = https://github.com/brendevs/Iframe.git
+[submodule "AngelGo/06_Navigation-Portfolio"]
+	path = AngelGo/06_Navigation-Portfolio
+	url = https://github.com/AngelGo-Jesse/06_Navigation-Portfolio.git
